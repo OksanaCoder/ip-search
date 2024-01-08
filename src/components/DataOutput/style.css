@@ -1,0 +1,16 @@
+.data-box {
+    background: #fff;
+    padding: 30px;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+}
+.data-box h6 {
+    color: #9F9F9F;
+}
+.data-box h5 {
+    font-weight: 700;
+}
+.vertical-line {
+    border-right: 1px solid #d1d1d1;
+  }
