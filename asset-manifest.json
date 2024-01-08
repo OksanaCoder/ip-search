@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ip-search/static/css/main.51f02e4b.css",
+    "main.js": "/ip-search/static/js/main.731dc954.js",
+    "static/js/787.0f8d78ff.chunk.js": "/ip-search/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/ip-search/index.html",
+    "main.51f02e4b.css.map": "/ip-search/static/css/main.51f02e4b.css.map",
+    "main.731dc954.js.map": "/ip-search/static/js/main.731dc954.js.map",
+    "787.0f8d78ff.chunk.js.map": "/ip-search/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f02e4b.css",
+    "static/js/main.731dc954.js"
+  ]
+}
